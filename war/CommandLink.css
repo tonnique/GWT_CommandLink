@@ -1,0 +1,13 @@
+/** Add css rules here for your application. */
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-weight: bold;
+  color: #777777;
+  margin: 20px 0px 30px;
+  text-align: center;
+}
+
+.commandLinkDescription {			
+	color: #777;
+}
